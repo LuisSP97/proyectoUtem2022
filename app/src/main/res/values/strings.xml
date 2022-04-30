@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">proyectoUtem2022</string>
+    <string name="welcome">Hello World!</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="tituloSecond">Esta es la segunda</string>
+    <string name="anterior">Anterior</string>
+</resources>
